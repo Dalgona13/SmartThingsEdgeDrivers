@@ -2151,6 +2151,11 @@ zigbeeManufacturer:
     manufacturer: Insta GmbH
     model: NEXENTRO Dimming Actuator
     deviceProfileName: on-off-level
+  - id: GLEDOPTO/JS-L-1
+    deviceLabel: ifthen Zigbee 2in1 CCT/DIM controller pro
+    manufacturer: GLEDOPTO
+    model: JS-L-1
+    deviceProfileName: rgbw-bulb-2000K-6500K
 zigbeeGeneric:
   - id: "genericSwitch"
     deviceLabel: Zigbee Switch

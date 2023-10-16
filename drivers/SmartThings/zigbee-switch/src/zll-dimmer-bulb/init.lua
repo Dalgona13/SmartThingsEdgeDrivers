@@ -127,7 +127,8 @@ local ZLL_DIMMER_BULB_FINGERPRINTS = {
   },
   ["GLEDOPTO"] = {
     ["GL-C-008"] = true,
-    ["GL-B-001Z"] = true
+    ["GL-B-001Z"] = true,
+    ["JS-L-1"] = true
   },
   ["Ubec"] = {
     ["BBB65L-HY"] = true
